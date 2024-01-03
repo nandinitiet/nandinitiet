@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&vCenter=true&lines=Hi%2C+I'm+Nandini)](https://git.io/typing-svg)
 
-I'm a Computer Engineering undergrad at Thapar Institute of Engineering & Technology, Patiala and an executive member at Microsoft Learn Student Chapter. I'm a tech enthusiast and keen on learning new skills that would help me implement my ideas.
+I'm a Computer Engineering undergrad at Thapar Institute of Engineering & Technology, Patiala. I'm a tech enthusiast and keen on learning new skills that would help me implement my ideas.
 
 - 👋 Hi, I’m @nandinitiet
 - 👀 I’m interested in Web Development.
